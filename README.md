@@ -1,6 +1,6 @@
 # Startup Mini-Book Generator · CrewAI → LaTeX
 
-[![CI](https://github.com/yosefshanaa/HW3/actions/workflows/ci.yml/badge.svg)](https://github.com/yosefshanaa/HW3/actions/workflows/ci.yml)
+[![CI](https://github.com/yosefshanaa/crewai-book-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/yosefshanaa/crewai-book-generator/actions/workflows/ci.yml)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Tests 101](https://img.shields.io/badge/tests-101%20passing-brightgreen.svg)](#quality--ci)
